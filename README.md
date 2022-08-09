@@ -9,7 +9,7 @@ It contains filters such as slope, height, noise, image mask and blend modes tha
 
 demo video:
 
-https://youtu.be/UUpmUqy_JeY  (I could not share this assets in this project,  instead,  my friend Nur Şenavcı is awesome low poly assets models)
+https://youtu.be/UUpmUqy_JeY  (I could not share this assets in this project,  instead,  my friend Nur Şenavcı made awesome low poly assets models)
 
 tutorial video:
 
