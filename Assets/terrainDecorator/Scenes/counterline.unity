@@ -536,7 +536,7 @@ MonoBehaviour:
       weight: 0
       debugWeight: 0
     activeRuleCount: 1
-  - name: new layer
+  - name: water
     active: 1
     layerIndex: 5
     layerType: 0

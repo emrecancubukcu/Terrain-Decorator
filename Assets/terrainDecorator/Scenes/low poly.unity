@@ -16,10 +16,10 @@ RenderSettings:
   serializedVersion: 9
   m_Fog: 1
   m_FogColor: {r: 0.5981132, g: 0.7569987, b: 1, a: 1}
-  m_FogMode: 1
-  m_FogDensity: 0.05
+  m_FogMode: 2
+  m_FogDensity: 0.0001
   m_LinearFogStart: 0
-  m_LinearFogEnd: 4000
+  m_LinearFogEnd: 10000
   m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
@@ -517,7 +517,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   t: {fileID: 1678694556}
   layers:
-  - name: sand layer
+  - name: grass
     active: 1
     layerIndex: 3
     layerType: 0
@@ -552,7 +552,7 @@ MonoBehaviour:
       weight: 1
       debugWeight: 1
     activeRuleCount: 1
-  - name: new layer
+  - name: grass 2
     active: 1
     layerIndex: 2
     layerType: 0
