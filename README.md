@@ -15,7 +15,7 @@ tutorial video:
 
 https://youtu.be/veQOj4AJxZI
 
-I made all terrains in my "Fire and Steel" game:
+I made all terrains in my "Fire and Steel" game with TerrainDecorator:
 
 https://store.steampowered.com/app/1791790/Fire_and_Steel/
 
