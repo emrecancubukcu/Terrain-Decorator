@@ -2,7 +2,7 @@
 ![terrain decorator cover](https://user-images.githubusercontent.com/62556242/183722147-92a19c3e-9275-497b-9900-febe5d1e768e.jpg)
 
 
-TerrainDecoration is Rule-based terrain texturing tool for Unity3D.
+TerrainDecoration is Rule-based terrain texturing tool for Unity3D that I have developed for Fire & Steel Game.
 
 I am publishing it as it is because I believe that I can no longer find time and correct my mistakes due to a heavy work schedule :( it has a lot of work to do now and has KNOWNBUGS! It would be nice if someone could fix it.
 It contains filters such as slope, height, noise, image mask and blend modes that can be used in combination. It consists of 2 scripts. You can put the "MiniTerrainDecorator" script on the terrain and start entering the rules.
